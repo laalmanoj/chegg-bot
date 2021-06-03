@@ -1,0 +1,11 @@
+{
+	"name": "chegg-bot",
+	"version": "1.0.0",
+	"description": "",
+	"main": "app.js",
+	"author": "laal",
+	"license": "ISC",
+	"dependencies": {
+		"telegraf": "^4.3.0"
+	}
+}
